@@ -1,0 +1,7 @@
+A:\school\DataStruct\LABS\Super Market Sim\SuperMarketSimulation\SuperMarketSimulation\bin\Debug\SuperMarketSimulation.exe.config
+A:\school\DataStruct\LABS\Super Market Sim\SuperMarketSimulation\SuperMarketSimulation\bin\Debug\SuperMarketSimulation.exe
+A:\school\DataStruct\LABS\Super Market Sim\SuperMarketSimulation\SuperMarketSimulation\bin\Debug\SuperMarketSimulation.pdb
+A:\school\DataStruct\LABS\Super Market Sim\SuperMarketSimulation\SuperMarketSimulation\obj\Debug\SuperMarketSimulation.csprojResolveAssemblyReference.cache
+A:\school\DataStruct\LABS\Super Market Sim\SuperMarketSimulation\SuperMarketSimulation\obj\Debug\SuperMarketSimulation.csproj.CoreCompileInputs.cache
+A:\school\DataStruct\LABS\Super Market Sim\SuperMarketSimulation\SuperMarketSimulation\obj\Debug\SuperMarketSimulation.exe
+A:\school\DataStruct\LABS\Super Market Sim\SuperMarketSimulation\SuperMarketSimulation\obj\Debug\SuperMarketSimulation.pdb
